@@ -2,7 +2,7 @@
     $servername="localhost";
     $username="root";
     $password="";
-    $db_name="fakefb";
+    $db_name="fake_google";
 
     $conn=new mysqli($servername,$username,$password,$db_name);
     

